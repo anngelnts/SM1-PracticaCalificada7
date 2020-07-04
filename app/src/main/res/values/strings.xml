@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticaCalificada7</string>
+    <string name="item_thumbnail">Book</string>
+    <string name="item_title">Title</string>
+    <string name="item_publisher">Publisher</string>
+    <string name="item_authors">Authors</string>
+</resources>
